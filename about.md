@@ -2,6 +2,6 @@
 layout: default
 title: About
 ---
-# About page
+# who is she??
 
-This page tells you about me!
+*MF Student at UC Berkeley*
