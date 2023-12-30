@@ -3,3 +3,4 @@ _site/*.md
 _site/assets/css/*.css
 _site/assets/css/*.map
 _site/assets/css/*.scss
+_site/
