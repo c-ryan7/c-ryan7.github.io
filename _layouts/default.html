@@ -6,7 +6,12 @@
     <link rel="stylesheet" href="/assets/css/styles.css">
   </head>
   <body>
-    {% include navigation.html %}
-    {{ content }}
+
+<!--- i've commented out the <div> below as it was my attempt to get a nice single-column styling, and it just made a box that was tightly squished around the content, not extending to the top and bottom of the page like I wanted --->
+
+    <!--- <div> --->
+      {% include navigation.html %}
+      {{ content }}
+    <!---  </div> --->
   </body>
 </html>
